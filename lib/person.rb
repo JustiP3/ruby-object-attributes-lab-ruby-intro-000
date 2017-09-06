@@ -1,4 +1,4 @@
-def Person
+class Person
 @name
 @job
 def name=(name)
