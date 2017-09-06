@@ -10,5 +10,8 @@ end
 def breed=(string)
   @breed = string
 end
+def breed
+  @breed
+end
 
 end
